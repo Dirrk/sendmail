@@ -6,6 +6,6 @@
       "start": "node sendmail.js"
     },
     "dependencies": {
-        "nodemailer": "*"
+        "simplesmtp": "*"
     }
 }
